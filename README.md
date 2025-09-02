@@ -211,11 +211,23 @@ Check the browser's developer console for JavaScript errors and ensure all files
 
 ## 🔎 Project Samples  
 
- 
+ # Caesar Cipher Tool  
+
+## 🔹 Home Page 
+
 ![image alt](https://github.com/AbinTAbey/Project_CeasarCipher/blob/029ede66325d0fbfeed85550ee7c0e82003b2675/src/Cipher1.PNG)
+
+## 🔹 Encrypt / Decrypt Example
   
 ![image alt](https://github.com/AbinTAbey/Project_CeasarCipher/blob/029ede66325d0fbfeed85550ee7c0e82003b2675/src/Cipher2.PNG)
 
+## 🔹 How Caesar Cipher Works 
+
 ![image alt](https://github.com/AbinTAbey/Project_CeasarCipher/blob/029ede66325d0fbfeed85550ee7c0e82003b2675/src/Cipher3.PNG)
+
+
+---
+
+<p align="center">Made with ❤️ by Abin Abey</p>
 
     
