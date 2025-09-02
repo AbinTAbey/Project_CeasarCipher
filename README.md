@@ -208,3 +208,17 @@ This project is for educational purposes. Feel free to use and modify as needed.
 ### Browser Console Errors
 
 Check the browser's developer console for JavaScript errors and ensure all files are properly loaded.
+
+## 🔎 Project Samples  
+
+ 
+![image alt](https://github.com/your-username/your-repo/blob/main/images/homepage.png?raw=true)  
+
+  
+![image alt](https://github.com/your-username/your-repo/blob/main/images/encryption.png?raw=true)  
+
+ 
+![image alt](https://github.com/your-username/your-repo/blob/main/images/decryption.png?raw=true)  
+
+  
+![image alt](https://github.com/your-username/your-repo/blob/main/images/backend.png?raw=true)  
